@@ -6,7 +6,7 @@ Hi, I'm Duancheng Zhao, a master student at South China University of Technology
 
 
 ###### Selected Publications
-* Duancheng Zhao, Yihao Chen, Yi Zhang, Weimin Zhu, Ling Wang Highly accurate and rapid prediction of small molecule antioxidants with alternating multi-task deep learning strategy (Under Review)
+* Duancheng Zhao, Yihao Chen, Yi Zhang, Weimin Zhu, Ling Wang Highly accurate and rapid prediction of small molecule antioxidants with alternating multi-task deep learning strategy (JCIM)
 * Shuyun He, Duancheng Zhao, Yanle Ling, Hanxuan Cai, Yike Cai, Jiquan Zhang, Ling Wang Machine learning enables accurate and rapid prediction of active molecules against breast cancer cells (Frontiers in Pharmacology)
 * Hanxuan Cai, Huimin Zhang, Duancheng Zhao, Jingxing Wu, Ling Wang FP-GNN: a versatile deep learning architecture for enhanced molecular property prediction (Briefings in bioinformatics)
 * Weimin Zhu, Yi Zhang, Duancheng Zhao, Jianrong Xu, Ling Wang HiGNN: Hierarchical Informative Graph Neural Networks for Molecular Property Prediction Equipped with Feature-Wise Attention (JCIM)
